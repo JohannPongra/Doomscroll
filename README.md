@@ -1,6 +1,6 @@
 # Doomscroll
 
-Hands-free controls for short-video feeds using a webcam.
+Scroll, scroll, scroll. Unlimited doomscrolling by blinking your eyes.
 
 ## Features
 
@@ -41,6 +41,10 @@ On first run, the MediaPipe face-landmarker model is downloaded automatically. K
 | Furrow eyebrows | Like current video |
 | Open mouth | Exit |
 | `q` | Exit |
+
+## Further Development 
+
+I want to create a small LLM and interface where you can tell the program in plain English which gestures you want to use for each action
 
 ## Privacy
 
